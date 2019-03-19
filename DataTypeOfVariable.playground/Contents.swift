@@ -33,3 +33,6 @@ print(myFriends)
 //การลบสมาชิก ของ Array
 myFriends.remove(at: 1)
 print(myFriends)
+
+
+
